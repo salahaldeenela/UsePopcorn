@@ -34,7 +34,7 @@ This project is a simple React application that interacts with the [OMDB API](ht
 
 
 #Website
-[https://rococo-licorice-0d281a.netlify.app/](https://clinquant-frangipane-48dff7.netlify.app/)
+[[https://rococo-licorice-0d281a.netlify.app/](https://clinquant-frangipane-48dff7.netlify.app/)](https://bejewelled-bienenstitch-6c42c7.netlify.app/)
 use this link to see the website
 
 Follow these steps to run the project locally:

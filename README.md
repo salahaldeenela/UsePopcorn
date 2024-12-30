@@ -32,6 +32,11 @@ This project is a simple React application that interacts with the [OMDB API](ht
 
 ## Installation
 
+
+#Website
+https://rococo-licorice-0d281a.netlify.app/
+use this link to see the website
+
 Follow these steps to run the project locally:
 
 1. Clone the repository:
